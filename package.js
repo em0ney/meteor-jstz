@@ -2,7 +2,7 @@ Package.describe({
   name: 'em0ney:jstz',
   version: '1.0.5',
   summary: 'Meteor packaged version of JSTZ - jsTimezoneDetect',
-  git: '',
+  git: 'https://github.com:em0ney/meteor-jstz',
   documentation: 'README.md'
 });
 

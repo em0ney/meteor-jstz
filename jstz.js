@@ -1305,8 +1305,3 @@ jstz.olson.dst_rules = {
         }
     ]
 };
-if (typeof exports !== 'undefined') {
-    exports.jstz = jstz;
-} else {
-    root.jstz = jstz;
-}
