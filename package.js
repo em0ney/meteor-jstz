@@ -1,8 +1,8 @@
 Package.describe({
   name: 'em0ney:jstz',
-  version: '1.0.5',
+  version: '1.0.5_1',
   summary: 'Meteor packaged version of JSTZ - jsTimezoneDetect',
-  git: 'https://github.com:em0ney/meteor-jstz',
+  git: 'https://github.com:em0ney/meteor-jstz.git',
   documentation: 'README.md'
 });
 
